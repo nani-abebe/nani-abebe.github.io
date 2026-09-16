@@ -14,30 +14,35 @@ cv:
   sections:
     Experience:
       - company: Datadog
+        domain: datadoghq.com
         position: Associate Marketing Operations Manager
         location: New York, NY
         start_date: 2024-06
         end_date: present
 
       - company: HubSpot
+        domain: hubspot.com
         position: Starter Automation Marketing Co-op
         location: Cambridge, MA
         start_date: 2023-09
         end_date: 2023-12
 
       - company: Alteryx
+        domain: alteryx.com
         position: Integrated Marketing Intern
         location: Irvine, CA
         start_date: 2023-05
         end_date: 2023-08
 
       - company: PwC (PricewaterhouseCoopers)
+        domain: pwc.com
         position: PwC x Paragon One - Non-Profit Consulting Extern
         location: Remote
         start_date: 2022-09
         end_date: 2022-11
 
       - company: Credera Consulting
+        domain: credera.com
         position: Credera x Paragon One - Data Analytics and Consulting Intern
         location: Remote
         start_date: 2022-06
@@ -45,6 +50,7 @@ cv:
 
     Education:
       - institution: University of Nevada, Las Vegas
+        domain: unlv.edu
         location: Las Vegas, NV
         area: Marketing
         studyType: Bachelor of Science in Business Administration
