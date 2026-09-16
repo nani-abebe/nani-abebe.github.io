@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Nani joined [Datadog](https://www.datadoghq.com) as an Associate Marketing Operations Manager in New York!
+Nani joined [Datadog](https://www.datadoghq.com/)'s marketing operations team.
