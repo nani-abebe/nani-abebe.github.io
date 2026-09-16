@@ -1,7 +1,4 @@
 ---
-layout: page
-title: news
-permalink: /news/
+published: false
+nav: false
 ---
-
-{% include news.liquid %}
