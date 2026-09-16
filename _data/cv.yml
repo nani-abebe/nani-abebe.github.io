@@ -18,49 +18,30 @@ cv:
         location: New York, NY
         start_date: 2024-06
         end_date: present
-        highlights:
-          - Managed end-to-end execution of 70+ multi-channel marketing campaigns per month across the NAMER region, owning first-party event tracking, Marketo automation builds, and Salesforce attribution—maintaining <1% error rates at scale.
-          - Deployed front-end validation logic on campaign landing pages to block invalid domains and low-quality form inputs, reducing junk leads by 20% and improving data integrity across marketing and sales systems.
-          - Rolled out progressive profiling across campaign landing pages, using A/B testing frameworks to incrementally capture 21% more form data on net-new and existing leads—simplifying form flows, lifting conversion rates, and enabling more precise GTM audience targeting.
-          - Drove adoption of DatoCMS by developing reusable, templatized landing pages for multiple event types—eliminating manual GitHub page builds and reducing production time by 67% (3 days to 1 day).
 
       - company: HubSpot
         position: Starter Automation Marketing Co-op
         location: Cambridge, MA
         start_date: 2023-09
         end_date: 2023-12
-        highlights:
-          - Led development and implementation of a globally unified email messaging strategy for the Starter product line, aligning cross-functional stakeholders across Marketing, Sales, and Product to ensure a cohesive customer experience.
-          - Designed and executed two trigger-based nurturing campaigns leveraging automation workflows and A/B testing, achieving a statistically significant 7%+ lift in email click-through rates and informing scalable optimization playbooks.
-          - Audited 1,000+ product assets and built a curated repository of 200+ instructional videos, enhancing in-app user onboarding and improving the effectiveness of sales chatbot training materials.
-          - Utilized HubSpot's analytics and reporting features to track the performance of email campaigns and in-app video adoption, providing actionable insights that informed continuous optimization strategies for marketing automation initiatives.
 
       - company: Alteryx
         position: Integrated Marketing Intern
         location: Irvine, CA
         start_date: 2023-05
         end_date: 2023-08
-        highlights:
-          - Leveraged Alteryx Designer to develop and implement an efficient data cleansing workflow for a nonprofit organization, directly contributing to a 30% improvement in the accuracy and reliability of data used for decision-making.
-          - Successfully managed the planning, promotion, and execution of two high-impact webinars, achieving 92% in attendance rates, and positive audience feedback.
 
       - company: PwC (PricewaterhouseCoopers)
         position: PwC x Paragon One - Non-Profit Consulting Extern
         location: Remote
         start_date: 2022-09
         end_date: 2022-11
-        highlights:
-          - Consolidated sector research from seven urban markets by implementing structured analytic frameworks and data analysis techniques, producing actionable insights that supported the expansion of the Genesis Works program into multiple cities.
-          - Developed structured frameworks to assess nonprofit market landscapes by incorporating demographic analysis, geographic mapping, and employer proximity insights using data analysis techniques.
 
       - company: Credera Consulting
         position: Credera x Paragon One - Data Analytics and Consulting Intern
         location: Remote
         start_date: 2022-06
         end_date: 2022-08
-        highlights:
-          - Conducted primary research, analyzing 150+ survey results in the GenZ talent marketplace, leading to the development of a targeted talent acquisition strategy for Credera.
-          - Led a data-driven initiative to analyze and identify key traits of top GenZ talent, culminating in the recommendation of a strategy to attract and retain top GenZ talent in 2022.
 
     Education:
       - institution: University of Nevada, Las Vegas
@@ -69,9 +50,3 @@ cv:
         studyType: Bachelor of Science in Business Administration
         start_date: 2022
         end_date: 2024
-
-    Skills:
-      - label: Strategy & Operations
-        details: Cross-Functional Program Management, Go-to-Market (GTM) Execution, OKR Tracking & Performance Measurement, Marketing Automation & Lifecycle Marketing, Lead Scoring & Nurturing, A/B Testing & Experimentation, Audience Segmentation, Data Analysis & Insights, Operational Process Optimization
-      - label: Tools & Technologies
-        details: Marketo, Salesforce, HubSpot, DatoCMS, Workato, Google Sheets, Adobe Experience Cloud, On24, Metabase, Tableau, Asana, Jira, Excel
