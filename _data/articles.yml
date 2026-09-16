@@ -1,10 +1,7 @@
 # Articles Nani has read. Each: title, url, source (optional), note (optional). Newest first.
-# PLACEHOLDERS — replace with real ones.
-- title: "How to Do Great Work"
-  url: https://paulgraham.com/greatwork.html
-  source: Paul Graham
-  note: Placeholder entry.
-- title: "Why Marketing Ops Is the Most Underrated Job in B2B"
-  url: https://example.com
-  source: example
-  note: Placeholder entry — swap for a real link.
+- title: "Excavating AI: The Politics of Images in Machine Learning Training Sets"
+  url: https://excavating.ai/
+  source: Kate Crawford & Trevor Paglen, AI Now Institute
+- title: "Mean Images"
+  url: https://newleftreview.org/issues/ii140/articles/hito-steyerl-mean-images
+  source: Hito Steyerl, New Left Review
