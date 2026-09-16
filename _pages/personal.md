@@ -16,7 +16,7 @@ Outside of work, a running log of what I've been reading.
 {% for b in books %}
   <div class="book-card">
     <a href="{{ b.url | relative_url }}">
-      <img alt="{{ b.title }} cover" src="{% if b.cover %}{{ b.cover | relative_url }}{% elsif b.isbn %}https://covers.openlibrary.org/b/isbn/{{ b.isbn | remove: '-' }}-L.jpg?default=false{% elsif b.olid %}https://covers.openlibrary.org/b/olid/{{ b.olid }}-L.jpg?default=false{% endif %}" loading="lazy" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
+      <img alt="{{ b.title }} cover" src="{% if b.cover %}{{ b.cover | relative_url }}{% elsif b.isbn %}https://covers.openlibrary.org/b/isbn/{{ b.isbn | remove: '-' }}-L.jpg?default=false{% elsif b.olid %}https://covers.openlibrary.org/b/olid/{{ b.olid }}-L.jpg?default=false{% endif %}" loading="lazy" data-alts="{% if b.alt_isbns %}{{ b.alt_isbns | join: ',' }}{% endif %}" onerror="var a=(this.dataset.alts||'').split(',').filter(Boolean);if(a.length){this.dataset.alts=a.slice(1).join(',');this.src='https://covers.openlibrary.org/b/isbn/'+a[0]+'-L.jpg?default=false';}else{this.style.display='none';this.nextElementSibling.style.display='flex';}">
       <div class="book-fallback">{{ b.title }}</div>
     </a>
     <div class="book-title">{{ b.title }}</div>
