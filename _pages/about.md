@@ -24,10 +24,10 @@ latest_posts:
 
 Thanks for visiting my page!
 
-I'm an Associate Marketing Operations Manager at [Datadog](https://www.datadoghq.com), where I own end-to-end execution of 70+ multi-channel campaigns a month across North America. Broadly, I'm interested in the systems layer of marketing: how data moves between tools, where processes break, and how to build automation that scales without adding headcount. My current work pursues this through Marketo automation, Salesforce attribution, front-end form validation, and templatized landing pages in DatoCMS — the goal being fewer manual steps and cleaner data for both marketing and sales.
+I'm an Associate Marketing Operations Manager at [Datadog](https://www.datadoghq.com/), where I own end-to-end execution of 70+ multi-channel campaigns a quarter across North America.
 
-I work daily across [Marketo](https://business.adobe.com/products/marketo/adobe-marketo.html), [Salesforce](https://www.salesforce.com), [Workato](https://www.workato.com), DatoCMS, and Metabase, and I care a lot about A/B testing and measuring whether the operational changes I ship actually move a number.
+I'm most interested in the systems layer of marketing: how data moves between tools, where processes break, and how to build automation that scales. Day to day, that looks like Marketo automation, Salesforce attribution, front-end form validation, and landing page optimization, all aimed at fewer manual steps and cleaner data flowing downstream. I work across [Marketo](https://business.adobe.com/products/marketo/adobe-marketo.html), [Salesforce](https://www.salesforce.com/), Tableau, Splash, DatoCMS, Metabase, and a handful of other reporting tools to measure how our campaigns actually perform.
 
-Previously, I graduated from the University of Nevada, Las Vegas with a BSBA in Marketing. Along the way I worked on the Starter automation team at [HubSpot](https://www.hubspot.com), where I built trigger-based nurture campaigns and a unified email strategy for the Starter product line; on integrated marketing at [Alteryx](https://www.alteryx.com); and on consulting externships with [PwC](https://www.pwc.com) and [Credera](https://www.credera.com) through Paragon One.
+I graduated from the University of Nevada, Las Vegas with a BSBA in Marketing. Along the way, I worked on the Starter automation team at [HubSpot](https://www.hubspot.com/), building trigger-based nurture campaigns and a unified email strategy for the Starter product line. I also did integrated marketing at [Alteryx](https://www.alteryx.com/) and consulting externships with [PwC](https://www.pwc.com/) and [Credera](https://www.credera.com/) through Paragon One.
 
-In my free time I like to explore the city, train, read, and travel :)
+Outside of work, I like reading, exploring the city (all ears for recs), and traveling :)
