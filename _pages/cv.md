@@ -11,7 +11,7 @@ description:
 
 {% assign cv = site.data.cv.cv %}
 
-## experience
+## Experience
 
 <div class="cv-timeline">
 {% for r in cv.sections.Experience %}
@@ -26,7 +26,7 @@ description:
 {% endfor %}
 </div>
 
-## education
+## Education
 
 <div class="cv-timeline">
 {% for e in cv.sections.Education %}
