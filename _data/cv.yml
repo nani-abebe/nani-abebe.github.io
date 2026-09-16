@@ -1,0 +1,83 @@
+cv:
+  name: Nani Abebe
+  label: Associate Marketing Operations Manager
+  email: naniabebe883@gmail.com
+  location: New York, NY
+  image: ""
+  summary: Marketing operations professional focused on campaign systems, workflow automation, and data integrity across the marketing–sales stack.
+
+  social_networks:
+    - network: LinkedIn
+      username: nani-abebe
+    - network: GitHub
+      username: nani-abebe
+
+  sections:
+    Experience:
+      - company: Datadog
+        position: Associate Marketing Operations Manager
+        location: New York, NY
+        start_date: 2024-06
+        end_date: present
+        highlights:
+          - Own end-to-end execution of 70+ multi-channel campaigns per month across NAMER — first-party event tracking, Marketo automation builds, and Salesforce attribution — at <1% error rate.
+          - Shipped front-end validation on campaign landing pages to block invalid domains and junk inputs, cutting junk leads by 20%.
+          - Rolled out progressive profiling with A/B testing, capturing 21% more form data and sharpening GTM audience targeting.
+          - Drove DatoCMS adoption with reusable, templatized event landing pages — replaced manual GitHub page builds and cut production time 67% (3 days → 1).
+
+      - company: HubSpot
+        position: Starter Automation Marketing Co-op
+        location: Cambridge, MA
+        start_date: 2023-09
+        end_date: 2023-12
+        highlights:
+          - Led a globally unified email messaging strategy for the Starter product line across Marketing, Sales, and Product.
+          - Designed two trigger-based nurture campaigns with A/B testing, driving a statistically significant 7%+ lift in click-through rate.
+          - Audited 1,000+ product assets and built a 200+ video onboarding repository used for in-app onboarding and sales chatbot training.
+
+      - company: Alteryx
+        position: Integrated Marketing Intern
+        location: Irvine, CA
+        start_date: 2023-05
+        end_date: 2023-08
+        highlights:
+          - Built an Alteryx Designer data-cleansing workflow for a nonprofit, improving decision-making data accuracy by 30%.
+          - Planned, promoted, and ran two webinars with 92% attendance rates.
+
+      - company: PwC × Paragon One
+        position: Non-Profit Consulting Extern
+        location: Remote
+        start_date: 2022-09
+        end_date: 2022-11
+        highlights:
+          - Consolidated sector research across seven urban markets to support expansion of the Genesis Works program.
+          - Built frameworks for assessing nonprofit market landscapes using demographic, geographic, and employer-proximity analysis.
+
+      - company: Credera Consulting × Paragon One
+        position: Data Analytics & Consulting Intern
+        location: Remote
+        start_date: 2022-06
+        end_date: 2022-08
+        highlights:
+          - Analyzed 150+ survey responses on the Gen Z talent marketplace to inform a targeted talent acquisition strategy.
+
+    Education:
+      - institution: University of Nevada, Las Vegas
+        location: Las Vegas, NV
+        area: Marketing
+        studyType: Bachelor of Science in Business Administration
+        start_date: 2022
+        end_date: 2024
+
+      - institution: College of Southern Nevada
+        location: Las Vegas, NV
+        area: Marketing
+        studyType: Associate's Degree
+        start_date: 2020
+        end_date: 2022
+
+    Skills:
+      - label: Strategy & Operations
+        details: Cross-functional program management, GTM execution, OKR tracking, marketing automation & lifecycle marketing, lead scoring & nurturing, A/B testing, audience segmentation, data analysis, process optimization
+      - label: Tools
+        details: Marketo, Salesforce, HubSpot, DatoCMS, Workato, Metabase, Tableau, Adobe Experience Cloud, On24, Asana, Jira, Google Sheets, Excel
