@@ -33,7 +33,7 @@ Pieces I've read recently and keep coming back to.
 <ul class="article-list">
 {% for a in site.data.articles %}
   <li>
-    <a href="{{ a.url }}" target="_blank" rel="noopener">{{ a.title }}</a>{% if a.source %} <span class="text-muted">· {{ a.source }}</span>{% endif %}{% if a.note %}<br><small class="text-muted">{{ a.note }}</small>{% endif %}
+    <a href="{{ a.url }}" target="_blank" rel="noopener">{{ a.title }}</a>{% if a.source %} <span class="text-muted">· <a href="{{ a.url }}" target="_blank" rel="noopener" class="text-muted">{{ a.source }}</a></span>{% endif %}{% if a.note %}<br><small class="text-muted">{{ a.note }}</small>{% endif %}
   </li>
 {% endfor %}
 </ul>
