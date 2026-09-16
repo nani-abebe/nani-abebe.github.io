@@ -1,7 +1,4 @@
 # Articles Nani has read. Each: title, url, source (optional), note (optional). Newest first.
-- title: "How to Do Great Work"
-  url: https://paulgraham.com/greatwork.html
-  source: Paul Graham
 - title: "How to Do What You Love"
   url: https://paulgraham.com/love.html
   source: Paul Graham
