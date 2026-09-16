@@ -70,13 +70,6 @@ cv:
         start_date: 2022
         end_date: 2024
 
-      - institution: College of Southern Nevada
-        location: Las Vegas, NV
-        area: Marketing
-        studyType: Associate's Degree
-        start_date: 2020
-        end_date: 2022
-
     Skills:
       - label: Strategy & Operations
         details: Cross-Functional Program Management, Go-to-Market (GTM) Execution, OKR Tracking & Performance Measurement, Marketing Automation & Lifecycle Marketing, Lead Scoring & Nurturing, A/B Testing & Experimentation, Audience Segmentation, Data Analysis & Insights, Operational Process Optimization
