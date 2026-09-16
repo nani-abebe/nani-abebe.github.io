@@ -7,7 +7,7 @@ nav_order: 3
 description:
 ---
 
-Outside of work, a running log of what I've been reading.
+Outside of work, a running log of what I've been reading in '26.
 
 ## books
 
