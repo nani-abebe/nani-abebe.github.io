@@ -2,7 +2,7 @@ cv:
   name: Nani Abebe
   label: Associate Marketing Operations Manager
   email: naniabebe883@gmail.com
-  location: New York, NY
+  location: Manhattan, New York, United States
   image: ""
 
   social_networks:
@@ -19,10 +19,10 @@ cv:
         start_date: 2024-06
         end_date: present
         highlights:
-          - Own end-to-end execution of 70+ multi-channel campaigns per month across NAMER — first-party event tracking, Marketo automation builds, and Salesforce attribution — at <1% error rate.
-          - Shipped front-end validation on campaign landing pages to block invalid domains and junk inputs, cutting junk leads by 20%.
-          - Rolled out progressive profiling with A/B testing, capturing 21% more form data and sharpening GTM audience targeting.
-          - Drove DatoCMS adoption with reusable, templatized event landing pages — replaced manual GitHub page builds and cut production time 67% (3 days → 1).
+          - Managed end-to-end execution of 70+ multi-channel marketing campaigns per month across the NAMER region, owning first-party event tracking, Marketo automation builds, and Salesforce attribution—maintaining <1% error rates at scale.
+          - Deployed front-end validation logic on campaign landing pages to block invalid domains and low-quality form inputs, reducing junk leads by 20% and improving data integrity across marketing and sales systems.
+          - Rolled out progressive profiling across campaign landing pages, using A/B testing frameworks to incrementally capture 21% more form data on net-new and existing leads—simplifying form flows, lifting conversion rates, and enabling more precise GTM audience targeting.
+          - Drove adoption of DatoCMS by developing reusable, templatized landing pages for multiple event types—eliminating manual GitHub page builds and reducing production time by 67% (3 days to 1 day).
 
       - company: HubSpot
         position: Starter Automation Marketing Co-op
@@ -30,9 +30,10 @@ cv:
         start_date: 2023-09
         end_date: 2023-12
         highlights:
-          - Led a globally unified email messaging strategy for the Starter product line across Marketing, Sales, and Product.
-          - Designed two trigger-based nurture campaigns with A/B testing, driving a statistically significant 7%+ lift in click-through rate.
-          - Audited 1,000+ product assets and built a 200+ video onboarding repository used for in-app onboarding and sales chatbot training.
+          - Led development and implementation of a globally unified email messaging strategy for the Starter product line, aligning cross-functional stakeholders across Marketing, Sales, and Product to ensure a cohesive customer experience.
+          - Designed and executed two trigger-based nurturing campaigns leveraging automation workflows and A/B testing, achieving a statistically significant 7%+ lift in email click-through rates and informing scalable optimization playbooks.
+          - Audited 1,000+ product assets and built a curated repository of 200+ instructional videos, enhancing in-app user onboarding and improving the effectiveness of sales chatbot training materials.
+          - Utilized HubSpot's analytics and reporting features to track the performance of email campaigns and in-app video adoption, providing actionable insights that informed continuous optimization strategies for marketing automation initiatives.
 
       - company: Alteryx
         position: Integrated Marketing Intern
@@ -40,25 +41,26 @@ cv:
         start_date: 2023-05
         end_date: 2023-08
         highlights:
-          - Built an Alteryx Designer data-cleansing workflow for a nonprofit, improving decision-making data accuracy by 30%.
-          - Planned, promoted, and ran two webinars with 92% attendance rates.
+          - Leveraged Alteryx Designer to develop and implement an efficient data cleansing workflow for a nonprofit organization, directly contributing to a 30% improvement in the accuracy and reliability of data used for decision-making.
+          - Successfully managed the planning, promotion, and execution of two high-impact webinars, achieving 92% in attendance rates, and positive audience feedback.
 
-      - company: PwC × Paragon One
-        position: Non-Profit Consulting Extern
+      - company: PwC (PricewaterhouseCoopers)
+        position: PwC x Paragon One - Non-Profit Consulting Extern
         location: Remote
         start_date: 2022-09
         end_date: 2022-11
         highlights:
-          - Consolidated sector research across seven urban markets to support expansion of the Genesis Works program.
-          - Built frameworks for assessing nonprofit market landscapes using demographic, geographic, and employer-proximity analysis.
+          - Consolidated sector research from seven urban markets by implementing structured analytic frameworks and data analysis techniques, producing actionable insights that supported the expansion of the Genesis Works program into multiple cities.
+          - Developed structured frameworks to assess nonprofit market landscapes by incorporating demographic analysis, geographic mapping, and employer proximity insights using data analysis techniques.
 
-      - company: Credera Consulting × Paragon One
-        position: Data Analytics & Consulting Intern
+      - company: Credera Consulting
+        position: Credera x Paragon One - Data Analytics and Consulting Intern
         location: Remote
         start_date: 2022-06
         end_date: 2022-08
         highlights:
-          - Analyzed 150+ survey responses on the Gen Z talent marketplace to inform a targeted talent acquisition strategy.
+          - Conducted primary research, analyzing 150+ survey results in the GenZ talent marketplace, leading to the development of a targeted talent acquisition strategy for Credera.
+          - Led a data-driven initiative to analyze and identify key traits of top GenZ talent, culminating in the recommendation of a strategy to attract and retain top GenZ talent in 2022.
 
     Education:
       - institution: University of Nevada, Las Vegas
@@ -77,6 +79,6 @@ cv:
 
     Skills:
       - label: Strategy & Operations
-        details: Cross-functional program management, GTM execution, OKR tracking, marketing automation & lifecycle marketing, lead scoring & nurturing, A/B testing, audience segmentation, data analysis, process optimization
-      - label: Tools
-        details: Marketo, Salesforce, HubSpot, DatoCMS, Workato, Metabase, Tableau, Adobe Experience Cloud, On24, Asana, Jira, Google Sheets, Excel
+        details: Cross-Functional Program Management, Go-to-Market (GTM) Execution, OKR Tracking & Performance Measurement, Marketing Automation & Lifecycle Marketing, Lead Scoring & Nurturing, A/B Testing & Experimentation, Audience Segmentation, Data Analysis & Insights, Operational Process Optimization
+      - label: Tools & Technologies
+        details: Marketo, Salesforce, HubSpot, DatoCMS, Workato, Google Sheets, Adobe Experience Cloud, On24, Metabase, Tableau, Asana, Jira, Excel
