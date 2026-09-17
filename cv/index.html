@@ -9,15 +9,15 @@ document.addEventListener("DOMContentLoaded", function () {
   var h = document.querySelector(".post-title");
   if (h && !h.querySelector(".cv-pdf")) {
     var a = document.createElement("a");
-    a.className = "cv-pdf"; a.href = "/assets/pdf/cv.pdf";
-    a.target = "_blank"; a.rel = "noopener"; a.title = "download CV as PDF";
+    a.className = "cv-pdf float-right"; a.href = "/assets/pdf/cv.pdf";
+    a.target = "_blank"; a.rel = "noopener noreferrer"; a.title = "download CV as PDF";
     a.innerHTML = '<i class="fa-solid fa-file-pdf"></i>';
     h.appendChild(document.createTextNode(" ")); h.appendChild(a);
   }
 });
 </script> <h2 id="experience">Experience</h2> <div class="cv-timeline"> <div class="cv-row"> <div class="cv-logo"><img src="https://www.google.com/s2/favicons?domain=datadoghq.com&amp;sz=128" alt="Datadog logo" loading="lazy"></div> <div class="cv-body"> <div class="cv-title">Associate Marketing Operations Manager</div> <div class="cv-org">Datadog · New York, NY</div> </div> <div class="cv-dates">Jun 2024 – Present</div> </div> <div class="cv-row"> <div class="cv-logo"><img src="https://www.google.com/s2/favicons?domain=hubspot.com&amp;sz=128" alt="HubSpot logo" loading="lazy"></div> <div class="cv-body"> <div class="cv-title">Starter Automation Marketing Co-op</div> <div class="cv-org">HubSpot · Cambridge, MA</div> </div> <div class="cv-dates">Sep 2023 – Dec 2023</div> </div> <div class="cv-row"> <div class="cv-logo"><img src="https://www.google.com/s2/favicons?domain=alteryx.com&amp;sz=128" alt="Alteryx logo" loading="lazy"></div> <div class="cv-body"> <div class="cv-title">Integrated Marketing Intern</div> <div class="cv-org">Alteryx · Irvine, CA</div> </div> <div class="cv-dates">May 2023 – Aug 2023</div> </div> <div class="cv-row"> <div class="cv-logo"><img src="https://www.google.com/s2/favicons?domain=pwc.com&amp;sz=128" alt="PwC (PricewaterhouseCoopers) logo" loading="lazy"></div> <div class="cv-body"> <div class="cv-title">PwC x Paragon One - Non-Profit Consulting Extern</div> <div class="cv-org">PwC (PricewaterhouseCoopers) · Remote</div> </div> <div class="cv-dates">Sep 2022 – Nov 2022</div> </div> <div class="cv-row"> <div class="cv-logo"><img src="https://www.google.com/s2/favicons?domain=credera.com&amp;sz=128" alt="Credera Consulting logo" loading="lazy"></div> <div class="cv-body"> <div class="cv-title">Credera x Paragon One - Data Analytics and Consulting Intern</div> <div class="cv-org">Credera Consulting · Remote</div> </div> <div class="cv-dates">Jun 2022 – Aug 2022</div> </div> </div> <h2 id="education">Education</h2> <div class="cv-timeline"> <div class="cv-row"> <div class="cv-logo"><img src="https://www.google.com/s2/favicons?domain=unlv.edu&amp;sz=128" alt="University of Nevada, Las Vegas logo" loading="lazy"></div> <div class="cv-body"> <div class="cv-title">Bachelor of Science in Business Administration, Marketing</div> <div class="cv-org">University of Nevada, Las Vegas · Las Vegas, NV</div> </div> <div class="cv-dates">2024</div> </div> </div> <style>
-.post-title .cv-pdf { font-size: .55em; vertical-align: middle; margin-left: .35rem; color: inherit; opacity: .6; }
-.post-title .cv-pdf:hover { opacity: 1; text-decoration: none; }
+.post-title .cv-pdf { font-size: inherit; color: inherit; }
+.post-title .cv-pdf:hover { text-decoration: none; }
 .cv-timeline { display: flex; flex-direction: column; gap: 1.1rem; margin: .75rem 0 2rem; }
 .cv-row { display: grid; grid-template-columns: 44px 1fr auto; gap: 0 .9rem; align-items: center; }
 .cv-logo img { width: 40px; height: 40px; object-fit: contain; border-radius: 8px; background: #fff; padding: 4px; border: 1px solid rgba(128,128,128,.25); }
