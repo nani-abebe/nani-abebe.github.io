@@ -12,8 +12,8 @@ document.addEventListener("DOMContentLoaded", function () {
   var h = document.querySelector(".post-title");
   if (h && !h.querySelector(".cv-pdf")) {
     var a = document.createElement("a");
-    a.className = "cv-pdf"; a.href = "{{ '/assets/pdf/cv.pdf' | relative_url }}";
-    a.target = "_blank"; a.rel = "noopener"; a.title = "download CV as PDF";
+    a.className = "cv-pdf float-right"; a.href = "{{ '/assets/pdf/cv.pdf' | relative_url }}";
+    a.target = "_blank"; a.rel = "noopener noreferrer"; a.title = "download CV as PDF";
     a.innerHTML = '<i class="fa-solid fa-file-pdf"></i>';
     h.appendChild(document.createTextNode(" ")); h.appendChild(a);
   }
@@ -53,8 +53,8 @@ document.addEventListener("DOMContentLoaded", function () {
 </div>
 
 <style>
-.post-title .cv-pdf { font-size: .55em; vertical-align: middle; margin-left: .35rem; color: inherit; opacity: .6; }
-.post-title .cv-pdf:hover { opacity: 1; text-decoration: none; }
+.post-title .cv-pdf { font-size: inherit; color: inherit; }
+.post-title .cv-pdf:hover { text-decoration: none; }
 .cv-timeline { display: flex; flex-direction: column; gap: 1.1rem; margin: .75rem 0 2rem; }
 .cv-row { display: grid; grid-template-columns: 44px 1fr auto; gap: 0 .9rem; align-items: center; }
 .cv-logo img { width: 40px; height: 40px; object-fit: contain; border-radius: 8px; background: #fff; padding: 4px; border: 1px solid rgba(128,128,128,.25); }
